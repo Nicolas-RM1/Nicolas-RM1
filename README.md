@@ -9,11 +9,11 @@
 
 
 <div style="display: flex; justify-content: space-between;">
-  <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-Gabriel0&show_icons=true&theme=dracula" alt="Lucas-Gabriel0's GitHub stats">
+  <a href="https://github.com/Nicolas-RM1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicolas-RM1&show_icons=true&theme=dracula" alt="Nicolas-RM1's GitHub stats">
   </a>
-  <a href="https://github.com/Lucas-Gabriel0">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Gabriel0&show_icons=true&theme=dracula" alt="Lucas-Gabriel0's top languages">
+  <a href="https://github.com/Nicolas-RM1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-RM1&show_icons=true&theme=dracula" alt="Nicolas-RM1's top languages">
   </a>
 </div>
 
