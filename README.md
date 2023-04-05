@@ -34,7 +34,7 @@
       title="Enviar um e-mail para Nicolas Machado"
     >
   </a>
-  <a href="https://www.linkedin.com/in/lucas-gabriel-168190250/" rel="nofollow"
+  <a href="linkedin.com/in/nicolas-machado-17ba3a24b/" rel="nofollow"
     target="_blank"
     title="Perfil de Lucas Gabriel no LinkedIn"
   >
