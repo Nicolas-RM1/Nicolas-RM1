@@ -18,13 +18,12 @@
   
 </div>
 
-##
 
 
 
 
 
-
+</br>
 
 
 <div class="social-media-links">
@@ -43,3 +42,12 @@
     >
   </a>
 </div>
+
+
+
+
+
+
+
+
+![Snake animation](https://github.com/Nicolas-RM1/Nicolas-RM1/blob/output/github-contribution-grid-snake.svg)
