@@ -1,11 +1,12 @@
 ## Olá! Eu sou o Nicolas Machado
 
-- 🔭 Estudando Python com foco em automação de tarefas.
-- 🌱 Atualmente aprendendo novas técnicas e bibliotecas para aprimorar meus conhecimentos em Python.
-- 👯 Interessado em colaborar em projetos de código aberto relacionados a automação de tarefas e outras áreas do Python.
-- ⚡ Fato curioso: Adoro desafios e sempre busco encontrar soluções criativas para problemas de programação.
-- 💬 Ainda estou começando a aprender Python, mas fique à vontade para me perguntar sobre o que eu já sei ou sobre minha jornada de aprendizado.
-- 📫 Você pode entrar em contato comigo pelo e-mail contatomachadonicolas@gmail.com.
+- 🔭 Trabalho com análise de dados em nível básico  
+- 🌱 Atualmente aprendendo Power BI e aprimorando meus conhecimentos em Excel  
+- 👯 Busco colaborar com a comunidade para compartilhar conhecimentos e crescer juntos  
+- 🤔 Estou em busca de ajuda para me aprofundar em análise de dados e ferramentas de BI  
+- 💬 Pergunte-me sobre Excel e conceitos básicos de análise de dados  
+- 📫 Entre em contato comigo: contatomachadonicolas@gmail.com  
+- ⚡ Curiosidade: Adoro transformar dados em insights valiosos!
 
 
 <div style="display: flex; justify-content: space-between;">
