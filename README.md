@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Nicolas Machado
 
-- 🔭 Trabalho com análise de dados em nível básico  
+- 🔭 Trabalho com análise de dados 
 - 🌱 Atualmente aprendendo Power BI e aprimorando meus conhecimentos em Excel  
 - 👯 Busco colaborar com a comunidade para compartilhar conhecimentos e crescer juntos  
 - 🤔 Estou em busca de ajuda para me aprofundar em análise de dados e ferramentas de BI  
