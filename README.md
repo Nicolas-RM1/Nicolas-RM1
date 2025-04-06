@@ -51,4 +51,4 @@
 
 
 
-![Snake animation](https://github.com/Nicolas-RM1/Nicolas-RM1/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Nicolas-RM1/Nicolas-RM1/output/github-contribution-grid-snake.svg)
