@@ -50,5 +50,5 @@
 
 
 
-![Snake animation](https://raw.githubusercontent.com/Nicolas-RM1/Nicolas-RM1/output/github-contribution-grid-snake.svg?palette=dracula)
+![Snake animation](https://raw.githubusercontent.com/Nicolas-RM1/Nicolas-RM1/output/github-contribution-grid-snake.svg?palette=github-dark)
 
