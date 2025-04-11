@@ -45,9 +45,4 @@
 </div>
 
 
-
-
-
-
-
 ![Snake animation](https://raw.githubusercontent.com/Nicolas-RM1/Nicolas-RM1/dist/github-contribution-grid-snake.svg?palette=github-dark)
