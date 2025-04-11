@@ -21,7 +21,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
-          color_snake: "#ff00ff"  # Roxo neon
+          color_snake: "#00ffff"  # Roxo neon
           color_dots: "#00ff00,#00cc00,#009900,#006600,#003300"  # Verdes do claro ao escuro
 
       - name: Publicar no branch output
