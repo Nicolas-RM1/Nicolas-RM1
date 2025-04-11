@@ -15,12 +15,11 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Gerar animação da cobra
-        uses: Platane/snk@v2  # 👈 Usando a versão 2, que aceita personalização
+        uses: Platane/snk@v3
         with:
           github_user_name: Nicolas-RM1
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          color_snake: "#00ffff"  # Azul neon
-          color_dots: "#9f00ff,#7c00c9,#5a0096,#3d0066,#200033"  # Tons de roxo
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=neon  # 👈 tema neon
 
       - name: Publicar no branch output
         uses: crazy-max/ghaction-github-pages@v2
