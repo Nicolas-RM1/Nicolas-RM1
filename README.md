@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there, I'm Nicolas 👋
 
-<!--
-**Nicolas-RM1/Nicolas-RM1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I work with data analysis  
+- 🌱 Currently learning Power BI and improving my Excel skills  
+- 👯 Looking to collaborate with the community to share knowledge and grow together  
+- 🤔 Seeking help to deepen my understanding of data analysis and BI tools  
+- 💬 Ask me about Excel and basic data analysis concepts  
+- 📫 Contact me at: contatomachadonicolas@gmail.com  
+- ⚡ Fun fact: I love turning data into valuable insights!
 
-Here are some ideas to get you started:
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/Nicolas-RM1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicolas-RM1&show_icons=true&theme=dark" alt="Nicolas-RM1's GitHub stats">
+  </a>
+  <a href="https://github.com/Nicolas-RM1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-RM1&show_icons=true&theme=dark" alt="Nicolas-RM1's top languages">
+  </a>
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas-RM1/Nicolas-RM1/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolas-RM1/Nicolas-RM1/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nicolas-RM1/Nicolas-RM1/output/github-contribution-grid-snake.svg">
+</picture>
