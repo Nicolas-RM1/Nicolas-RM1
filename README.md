@@ -1,22 +1,23 @@
-## Hi there, I'm Nicolas 👋
+## Nicolas R Machado
+**`Analista de Dados`**
+<p align="start">
+    <a href="https://github.com/Nicolas-RM1?tab=followers">
+        <img
+            alt="Seguidores"
+            title="Me siga no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/Nicolas-RM1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+          />
+    </a>
+    <a href="https://github.com/Nicolas-RM1?tab=repositories&sort=stargazers">
+        <img
+            alt="Total de Estrelas"
+            title="Total de estrelas GitHub"
+            src="https://custom-icon-badges.demolab.com/github/stars/Nicolas-RM1?color=55960c&style=for-the-badge&labelColor=588207&logo=star&label=estrelas"
+        />
+    </a>
+</p>
 
-- 🔭 I work with data analysis  
-- 🌱 Currently learning Power BI and improving my Excel skills  
-- 👯 Looking to collaborate with the community to share knowledge and grow together  
-- 🤔 Seeking help to deepen my understanding of data analysis and BI tools  
-- 💬 Ask me about Excel and basic data analysis concepts  
-- 📫 Contact me at: contatomachadonicolas@gmail.com  
-- ⚡ Fun fact: I love turning data into valuable insights!
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/Nicolas-RM1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nicolas-RM1&show_icons=true&theme=dark" alt="Nicolas-RM1's GitHub stats">
-  </a>
-  <a href="https://github.com/Nicolas-RM1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-RM1&show_icons=true&theme=dark" alt="Nicolas-RM1's top languages">
-  </a>
-  
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas-RM1/Nicolas-RM1/output/github-contribution-grid-snake-dark.svg">
