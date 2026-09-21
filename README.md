@@ -1,5 +1,10 @@
 ## Nicolas R Machado
 **`Analista de Dados`**
+
+👋 Olá! Meu nome é Nicolas, tenho 22 anos e sou estudante de Ciência de Dados, com foco em Análise de Dados e Business Intelligence.
+
+Atualmente estudo e desenvolvo projetos utilizando Excel, Power BI, Power Query, DAX, Python e SQL, buscando transformar dados em informações relevantes para apoiar decisões.
+
 <p align="start">
     <a href="https://github.com/Nicolas-RM1?tab=followers">
         <img
@@ -31,12 +36,6 @@
   <img src="https://img.shields.io/badge/DAX-01B8AA?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20Query-5B2C83?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nicolas-RM1/Nicolas-RM1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nicolas-RM1/Nicolas-RM1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nicolas-RM1/Nicolas-RM1/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 <picture data-importer="pacman">
